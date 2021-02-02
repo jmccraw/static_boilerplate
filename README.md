@@ -1,6 +1,17 @@
-# Getting Started with Create React App
-
+# Getting Started with Create React App and Static Boilerplate
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It's based off research from these sources to create a static HTML with a single bundle for CSS and JS:
+* https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319
+* https://create-react-app.dev/docs/pre-rendering-into-static-html-files
+* https://create-react-app.dev/docs/production-build
+* https://www.npmjs.com/package/react-snap
+* https://github.com/stereobooster/react-snap/blob/HEAD/doc/alternatives.md
+* https://stackoverflow.com/questions/55909340/can-i-turn-off-create-react-app-chunking-mechanism
+* https://stackoverflow.com/a/60328205/1472477
+* https://github.com/facebook/create-react-app/issues/5306#issuecomment-433425838
+* https://www.npmjs.com/package/react-app-rewire-disable-chunks
+* https://stackoverflow.com/questions/62048737/how-do-i-disable-webpack-4-code-splitting
 
 ## Available Scripts
 
